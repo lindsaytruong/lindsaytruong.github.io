@@ -4,9 +4,9 @@ highlighter:      rouge
 remote_theme: fongandrew/hydeout
 
 # Setup
-title:            Hydeout
+title:            WSDS 2020
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'Sarah Cameron, Valerie Schnapp, Lindsay Truong'
 url:              https://fongandrew.github.io
 
 baseurl:          '/'
