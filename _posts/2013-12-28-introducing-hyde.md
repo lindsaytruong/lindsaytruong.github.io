@@ -1,37 +1,6 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Probabilistic Methods in Time Series Analysis, A Case Study
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
-
-### Built on Poole
-
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
-
-### Hyde features
-
-In addition to the features of Poole, Hyde adds the following:
-
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
-
-### Browser support
-
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+Modeling real-world time series data poses unique challenges. Properties such as infrequent reporting, data inconsistences, and nonlinear behavior may prove difficult when employing traditional modeling techniques. A probabilistic approach helps circumvent these issues by natively handling missing, noisy data while providing a result with measurable uncertainty. Methods were applied to analyze the performance of a defined stage within a complex, multistage queuing process. Performance is measured by the reported number of days spent in each stage, a metric defined as a timeliness. To uncover seasonal patterns and provide a forecast of timeliness, Structural Time Series was used. Detecting structural changes in timeliness behavior was accomplished using a Hidden Markov Model. Lastly, Gaussian Process Regression in conjunction with Least Squares Anomaly Detection was used to characterize the overall process and identify systemic anomalies.  Understanding the behavior of timeliness in an identified stage can help inform decision makers to streamline operations, anticipate backlog, and prevent bottlenecks in workflow. 
