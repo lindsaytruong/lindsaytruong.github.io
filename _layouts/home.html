@@ -1,3 +1,4 @@
+  
 {% include header.html %}
 
 {% if site.layout == 'stacked' %}
@@ -8,9 +9,9 @@
       {{ content }}
     </div>
 
-    {% if site.about %}
+    {% if site.biographies %}
     <div class="my-6">
-      {% include about.html %}
+      {% include biographies.html %}
     </div>
   {% endif %}
 
@@ -87,8 +88,8 @@
           </div>
         {% endunless %}
 
-        {% if site.about %}
-          {% include about.html %}
+        {% if site.biographies %}
+          {% include biographies.html %}
         {% endif %}
 
         {% if site.topics %}
