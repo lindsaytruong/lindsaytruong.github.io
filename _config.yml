@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            WSDS Conference
 tagline:          '2020 WSDS Conference'
-description:      'Probabilistic Methods in Time Series Analysis: A Case Study presented by Sarah Cameron, Valerie Schnapp, and Lindsay    Truong'
+description:      'Probabilistic Methods in Time Series Analysis: A Case Study presented by Sarah Cameron, Valerie Schnapp, and Lindsay Truong'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
