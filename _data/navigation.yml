@@ -4,9 +4,7 @@ main:
     url: /
   - title: "Abstract"
     url: /abstract
-  - title: "Poster Supplements"
-    url: /supplements.html
+  - title: "Supplemental Analysis"
+    url: /supplements
   - title: "Special Thanks"
-    url: /special_thanks.html
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /special_thanks
