@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Abstract"
-    url: https://lindsaytruong.github.io/abstract.html
+    url: /abstract.html
   - title: "Poster Supplements"
-    url: https://lindsaytruong.github.io/abstract.html
+    url: /supplements.html
   - title: "Special Thanks"
-    url: https://lindsaytruong.github.io/special_thanks.html
+    url: /special_thanks.html
   # - title: "Sitemap"
   #   url: /sitemap/
