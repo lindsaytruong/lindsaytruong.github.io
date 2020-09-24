@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Abstract"
     url: /abstract
+  - title: "Poster"
+    url: /poster
   - title: "Supplemental Analysis"
     url: /supplements
   - title: "Special Thanks"
