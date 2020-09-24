@@ -20,7 +20,7 @@ title                    : "Probabilistic Methods in Time Series Anaylsis: A    
 title_separator          : "-"
 subtitle                 : "Women in Statistics and Data Science Conference 2020"
 name                     : "Authors"
-description              : "Sarah Cameron, Valerie Schnapp, & Lindsay Truong"
+description              : "Sarah Cameron" <br> "Valerie Schnapp" <br> "Lindsay Truong"
 url                      : "https://lindsaytruong.github.io" 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Authors"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Sarah Cameron <br> Valerie Schnapp <br> Lindsay Truong"
+  bio              : "Sarah Cameron" <br> "Valerie Schnapp" <br> "Lindsay Truong"
   location         : "Washington D.C."
   email            :
   links:
