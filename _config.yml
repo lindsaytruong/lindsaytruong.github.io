@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Authors"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Sarah Cameron, Valerie Schnapp, & Lindsay Truong"
+  bio              : "Sarah Cameron <br> Valerie Schnapp <br> Lindsay Truong"
   location         : "Washington D.C."
   email            :
   links:
