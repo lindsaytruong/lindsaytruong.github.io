@@ -20,7 +20,7 @@ title                    : "Probabilistic Methods in Time Series Analysis: A    
 title_separator          : "-"
 subtitle                 : "Women in Statistics and Data Science Conference 2020"
 name                     : "WSDS 2020"
-description              : "Utilizing quantitative methods to enable data-driven policy decisions "
+description              : "Utilizing quantitative methods to enable data-driven policy decisions"
 url                      : "https://lindsaytruong.github.io" 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Authors"
+  name             : "WSDS 2020"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Sarah Cameron" <br> "Valerie Schnapp" <br> "Lindsay Truong"
+  bio              : "Utilizing quantitative methods to enable data-driven policy decisions"
   location         : "Washington D.C."
   email            :
   links:
