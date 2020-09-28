@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Poster"
-    url: /poster
+  - title: "About"
+    url: /about
   - title: "Supplements"
     url: /supplements
   - title: "Special Thanks"
