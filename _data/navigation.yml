@@ -8,3 +8,5 @@ main:
     url: /supplements
   - title: "Special Thanks"
     url: /special_thanks
+  - title: "Resources"
+    url: /resources
